@@ -1,0 +1,4 @@
+This is file 2 which can interpreted as properties file
+
+properties.file1 = file1
+properties.file2 = file2
